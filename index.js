@@ -1,4 +1,4 @@
-// Write your solution here!
-def append(pets){
-  pets.pop('Odie')
-};
+append.push("Odie");
+prepend.unshift("Odie");
+removeLast.pop();
+removeFirst.shift();
