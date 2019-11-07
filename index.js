@@ -1,6 +1,6 @@
 let pets = ["Milo", "Otis", "Garfield"];
 
-append.push("Odie");
-prepend.unshift("Odie");
-removeLast.pop();
-removeFirst.shift();
+pets.push("Odie");
+pets.unshift("Odie");
+pets.pop();
+pets.shift();
